@@ -1,0 +1,111 @@
+locality,zone,latitude,longitude,price_lakh_2025,price_per_sqft_2025,metro_proximity,segment,predicted_price_lakh,price_error_lakh
+Bopal,Central,23.0316,72.4671,71.5,7526.2,0,Mid,29.37,42.13
+Satellite,West,23.0292,72.5195,132.0,9777.9,1,Premium,137.85,-5.85
+Bodakdev,West,23.0471,72.5068,352.0,12571.9,1,Luxury,389.13,-37.13
+Nikol,East,23.0421,72.6583,41.8,5225.0,0,Budget,-27.94,69.74
+Vastral,East,23.0335,72.6683,24.2,4654.1,0,Budget,-38.96,63.16
+Prahlad Nagar,West,23.0199,72.5063,159.5,11000.0,0,Premium,142.37,17.13
+Chandkheda,North,23.1047,72.5938,121.0,6722.1,1,Premium,155.87,-34.87
+Maninagar,West,23.0025,72.6142,63.8,6076.4,0,Mid,97.95,-34.15
+Vastrapur,West,23.0376,72.5249,528.0,15085.4,1,Luxury,489.65,38.35
+Gota,North,23.1038,72.5659,57.2,6355.8,1,Budget,34.38,22.82
+Bapunagar,East,23.0498,72.6242,46.2,4199.8,0,Budget,34.32,11.88
+Thaltej,West,23.0558,72.501,181.5,11344.3,1,Premium,192.6,-11.1
+Naroda,East,23.083,72.6568,48.4,4964.3,0,Budget,71.42,-23.02
+South Bopal,West,23.0196,72.471,203.5,9249.9,0,Premium,184.66,18.84
+Odhav,East,23.0426,72.6677,19.8,4125.0,0,Budget,10.7,9.1
+Anand Nagar,West,23.0603,72.5274,107.8,7811.1,0,Mid,122.91,-15.11
+Judges Bungalow Road,Central,23.0548,72.5166,462.0,14437.5,0,Luxury,481.88,-19.88
+Ghatlodia,Central,23.076,72.553,79.2,7764.9,0,Mid,62.21,16.99
+Lambha,Central,22.9712,72.5848,35.2,4693.7,0,Budget,3.36,31.84
+Ambli,West,23.0447,72.496,253.0,12047.2,0,Luxury,231.11,21.89
+Vatva,Central,22.978,72.649,44.0,4999.5,0,Budget,46.95,-2.95
+Tragad,Central,23.1175,72.6463,137.5,7051.0,0,Premium,170.32,-32.82
+Prahladnagar,Central,23.0199,72.5063,176.0,11733.7,0,Premium,149.29,26.71
+Shilaj,Central,23.0533,72.479,638.0,15191.0,0,Luxury,583.77,54.23
+Meghaninagar,Central,23.0478,72.6374,17.6,3911.6,0,Budget,10.03,7.57
+New Ranip,Central,23.0883,72.5844,60.5,5500.0,0,Mid,93.78,-33.28
+Isanpur,Central,22.9876,72.6323,52.8,4400.0,0,Budget,36.96,15.84
+Drive-In Road,Central,23.0523,72.5343,195.8,11518.1,0,Premium,204.91,-9.11
+Rakhial,East,23.0455,72.6304,46.2,5021.5,0,Budget,70.36,-24.16
+Motera,North,23.1018,72.596,214.5,8937.5,0,Premium,226.39,-11.89
+Navrangpura,West,23.0367,72.5609,148.5,10457.7,0,Premium,146.48,2.02
+Ambawadi,West,23.0338,72.5538,572.0,15052.4,0,Luxury,555.2,16.8
+Kubernagar,Central,23.082,72.632,41.8,4918.1,0,Budget,72.47,-30.67
+Saijpur,Central,23.072,72.6503,22.0,4400.0,0,Budget,-11.67,33.67
+Odhav,East,23.0426,72.6677,38.5,4694.8,0,Budget,-13.7,52.2
+Bodakdev,West,23.0471,72.5068,308.0,13391.4,1,Luxury,295.41,12.59
+Paldi,West,23.0138,72.5677,74.8,7480.0,0,Mid,87.73,-12.93
+Shela,South,23.0208,72.474,159.5,7595.5,0,Premium,185.79,-26.29
+Ellis Bridge,Central,23.027,72.575,170.5,11000.0,0,Premium,201.18,-30.68
+Jodhpur,Central,23.0241,72.5283,385.0,13275.9,0,Luxury,421.03,-36.03
+Vastral,East,23.0335,72.6683,47.3,5086.4,0,Budget,35.81,11.49
+Sarkhej,South,22.9942,72.5025,118.8,8026.7,0,Mid,135.96,-17.16
+Hathijan,Central,22.9778,72.648,49.5,4304.3,0,Budget,48.25,1.25
+Satellite,West,23.0292,72.5195,96.8,8962.8,1,Mid,108.61,-11.81
+Randesan,Central,23.175,72.63,231.0,8884.7,0,Premium,247.29,-16.29
+Amraiwadi,East,23.0165,72.6265,18.7,4065.6,0,Budget,-3.54,22.24
+Gurukul,Central,23.0572,72.5355,178.2,11137.5,0,Premium,183.32,-5.12
+Sindhu Bhavan Road,West,23.0468,72.5038,605.0,15125.0,0,Luxury,585.56,19.44
+Naranpura,West,23.0625,72.5558,66.0,6804.6,0,Mid,67.05,-1.05
+Jivraj Park,West,23.0038,72.5677,104.5,7916.7,0,Mid,117.34,-12.84
+Gomtipur,Central,23.0347,72.6329,36.3,4654.1,0,Budget,19.51,16.79
+Vejalpur,Central,23.0096,72.5355,77.0,7404.1,0,Mid,75.77,1.23
+Zundal,Central,23.139,72.6265,129.8,6832.1,0,Premium,150.36,-20.56
+Thaltej,West,23.0558,72.501,291.5,13249.5,1,Luxury,280.18,11.32
+Memnagar,West,23.0594,72.5273,434.5,14016.2,0,Luxury,458.27,-23.77
+Vastral,East,23.0335,72.6683,20.9,4265.8,0,Budget,-23.18,44.08
+Asarwa,Central,23.0505,72.6085,44.0,4835.6,0,Budget,72.83,-28.83
+Manekbaug,Central,23.0175,72.5479,137.5,9483.1,0,Premium,137.51,-0.01
+Nikol,East,23.0421,72.6583,55.0,4400.0,0,Budget,52.53,2.47
+New C.G. Road,Central,23.056,72.604,82.5,8250.0,0,Mid,72.97,9.53
+Adalaj,North,23.167,72.576,206.8,8272.0,0,Premium,245.47,-38.67
+Ambli-Bopal Road,Central,23.038,72.501,184.8,11696.3,0,Premium,168.41,16.39
+Vastrapur,West,23.0376,72.5249,682.0,15155.8,1,Luxury,667.28,14.72
+Saraspur,Central,23.0428,72.618,40.7,4732.2,0,Budget,90.01,-49.31
+Naroda,East,23.083,72.6568,23.1,4529.8,0,Budget,-14.15,37.25
+Satellite,West,23.0292,72.5195,170.5,11366.3,1,Premium,165.12,5.38
+Danilimda,East,22.9904,72.6054,37.4,4675.0,0,Budget,3.31,34.09
+Prahlad Nagar,West,23.0199,72.5063,324.5,13521.2,0,Luxury,320.09,4.41
+Hansol,Central,23.112,72.6381,143.0,7150.0,0,Premium,179.86,-36.86
+Ahmedabad Cantonment,Central,23.0225,72.6419,539.0,14972.1,0,Luxury,518.94,20.06
+Kankaria,Central,23.002,72.6018,60.5,6111.6,0,Mid,92.94,-32.44
+Prahladnagar,Central,23.0199,72.5063,143.0,10214.6,0,Premium,128.64,14.36
+Shapur,Central,23.0601,72.6218,47.3,4299.9,0,Budget,49.12,-1.82
+Judges Bungalow Road,Central,23.0548,72.5166,93.5,8820.9,0,Mid,90.31,3.19
+Gota,North,23.1038,72.5659,236.5,8759.3,1,Premium,280.56,-44.06
+Rakhial,East,23.0455,72.6304,19.8,4213.0,0,Budget,3.58,16.22
+Bopal,Central,23.0316,72.4671,170.5,10524.8,0,Premium,181.93,-11.43
+Anandnagar,Central,23.0603,72.5274,396.0,13895.2,0,Luxury,396.84,-0.84
+Ghodasar,Central,22.9974,72.6213,45.1,5011.6,0,Budget,50.09,-4.99
+Chandlodiya,Central,23.108,72.5697,112.2,7684.6,0,Mid,130.35,-18.15
+Narol,Central,22.9676,72.6323,34.1,4486.9,0,Budget,26.11,7.99
+C.G. Road,Central,23.0326,72.5619,88.0,8627.3,0,Mid,82.0,6.0
+Bhadaj,Central,23.086,72.534,126.5,6837.6,0,Premium,146.02,-19.52
+Bodakdev,West,23.0471,72.5068,283.8,13514.6,1,Luxury,261.77,22.03
+Nehrunagar,Central,23.0425,72.5229,561.0,15162.4,0,Luxury,525.01,35.99
+Vatva,Central,22.978,72.649,18.7,3896.2,0,Budget,10.55,8.15
+Gota,North,23.1038,72.5659,52.8,5616.6,1,Budget,72.22,-19.42
+Jodhpur,Central,23.0241,72.5283,151.8,9986.9,0,Premium,150.87,0.93
+Sardar Estate,Central,23.0143,72.585,57.2,4400.0,0,Budget,66.46,-9.26
+Vastrapur,West,23.0376,72.5249,90.2,8430.4,1,Mid,87.89,2.31
+Vaishnodevi Circle,Central,23.1605,72.631,195.8,8331.4,0,Premium,209.99,-14.19
+Sindhu Bhavan Road,West,23.0468,72.5038,189.2,11466.4,0,Premium,185.07,4.13
+Thaltej,West,23.0558,72.501,451.0,15033.7,1,Luxury,420.47,30.53
+Amraiwadi,East,23.0165,72.6265,42.9,4931.3,0,Budget,51.07,-8.17
+Kubernagar,Central,23.082,72.632,20.9,4180.0,0,Budget,-6.47,27.37
+Chandkheda,North,23.1047,72.5938,115.5,7857.3,1,Mid,140.56,-25.06
+Isanpur,Central,22.9876,72.6323,39.6,4888.4,0,Budget,9.61,29.99
+Prahlad Nagar,West,23.0199,72.5063,341.0,13640.0,0,Luxury,346.32,-5.32
+Motera,North,23.1018,72.596,148.5,7243.5,0,Premium,180.63,-32.13
+Shilaj,Central,23.0533,72.479,748.0,14960.0,0,Luxury,733.86,14.14
+Bopal,Central,23.0316,72.4671,63.8,6646.2,0,Mid,41.69,22.11
+New Ranip,Central,23.0883,72.5844,101.2,7333.7,0,Mid,130.71,-29.51
+Bapunagar,East,23.0498,72.6242,51.7,4381.3,0,Budget,39.17,12.53
+Satellite,West,23.0292,72.5195,92.4,8970.5,1,Mid,89.32,3.08
+South Bopal,West,23.0196,72.471,211.2,8620.7,0,Premium,221.95,-10.75
+Thaltej,West,23.0558,72.501,176.0,11281.6,1,Premium,175.9,0.1
+Bodakdev,West,23.0471,72.5068,594.0,15230.6,1,Luxury,579.02,14.98
+Naranpura,West,23.0625,72.5558,50.6,5685.9,0,Budget,62.2,-11.6
+Meghaninagar,Central,23.0478,72.6374,17.6,3825.8,0,Budget,6.06,11.54
+Paldi,West,23.0138,72.5677,129.8,8710.9,0,Premium,149.11,-19.31

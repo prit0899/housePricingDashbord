@@ -106,7 +106,7 @@ sns.heatmap(pivot, ax=ax, cmap='RdPu', annot=True, fmt='.0f')
 
 plt.tight_layout()
 plt.savefig('eda_dashboard.png', dpi=150)
-st.pyplot(plt.subplots()[0])
+st.pyplot(fig1)
 
 # 4. Linear Regression predicts price from 9 numeric features. ML needs all inputs as numbers — we encode text columns first.
 

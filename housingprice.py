@@ -11,7 +11,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder
-
+import streamlit as st
 # Set dark theme for all charts at once
 plt.rcParams.update({
     'figure.facecolor': '#0f0f1a',
